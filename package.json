@@ -1,0 +1,23 @@
+{
+  "name": "compliant",
+  "version": "0.0.0",
+  "description": "stub for compliance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzb-stcnx/compliant.git"
+  },
+  "keywords": [
+    "spec",
+    "compliance"
+  ],
+  "author": "bzb-stcnx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bzb-stcnx/compliant/issues"
+  },
+  "homepage": "https://github.com/bzb-stcnx/compliant#readme"
+}
